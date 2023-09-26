@@ -8,11 +8,8 @@
 
 
 ### 🤵 About Me:
-- 🏦 I'm Software Engineer, currently working for Velotio Technologies, India.
+- 🏦 I'm a Software Engineer, based in India.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```python```,``` django```, ```sql```, ```git```
-- 🌱 I’m currently learning golang, docker and kubernetes
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
 - 😄 Pronouns: He/Him
 
 
